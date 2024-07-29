@@ -1,0 +1,132 @@
+body {
+  font-family: Arial, sans-serif;
+}
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+}
+
+.input-container {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin: 10px 0;
+  justify-content: center;
+}
+
+input[type="text"] {
+  padding: 5px;
+  flex: 1;
+  min-width: 0;
+  margin: 5px;
+  border-radius: 5px;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: gray;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: black;
+}
+
+#addCityButton {
+  width: auto;
+}
+
+#sortButton {
+  margin: 10px 0;
+}
+
+.city-card {
+  border: 1px solid white;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 10px 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-direction: row;
+}
+
+.city-card h2 {
+  margin: 0;
+  flex: 1;
+  text-align: right;
+  padding: 0 10px;
+}
+
+.city-card button {
+  padding: 5px 10px;
+  margin-left: 5px;
+  background-color: #2196f3;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.city-card button i {
+  pointer-events: none;
+}
+
+.city-card button.delete {
+  background-color: #f44336;
+}
+
+.pagination {
+  display: flex;
+  justify-content: space-between;
+  margin: 20px 0;
+}
+.actions {
+  margin: 5px;
+}
+
+@media screen and (max-width: 600px) {
+  .input-container {
+    flex-direction: row;
+    gap: 10px;
+    justify-content: space-between;
+  }
+
+  input[type="text"] {
+    width: calc(100% - 130px);
+    margin-bottom: 0;
+  }
+
+  #addCityButton {
+    width: 120px;
+  }
+
+  #sortButton {
+    margin: 10px 0;
+  }
+
+  .city-card {
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  .city-card button {
+    margin: 0 5px;
+    order: 0;
+  }
+
+  .city-card h2 {
+    text-align: right;
+    padding: 0;
+    flex: 1;
+    order: 1;
+  }
+
+  .pagination {
+    justify-content: space-between;
+  }
+}

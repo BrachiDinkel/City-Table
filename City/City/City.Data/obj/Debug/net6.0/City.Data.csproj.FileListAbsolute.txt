@@ -1,0 +1,15 @@
+D:\מבחנים ופרויקטים עבודה\מגה - טק\City\City\City.Data\obj\Debug\net6.0\City.Data.csproj.AssemblyReference.cache
+D:\מבחנים ופרויקטים עבודה\מגה - טק\City\City\City.Data\obj\Debug\net6.0\City.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\מבחנים ופרויקטים עבודה\מגה - טק\City\City\City.Data\obj\Debug\net6.0\City.Data.AssemblyInfoInputs.cache
+D:\מבחנים ופרויקטים עבודה\מגה - טק\City\City\City.Data\obj\Debug\net6.0\City.Data.AssemblyInfo.cs
+D:\מבחנים ופרויקטים עבודה\מגה - טק\City\City\City.Data\obj\Debug\net6.0\City.Data.csproj.CoreCompileInputs.cache
+D:\מבחנים ופרויקטים עבודה\מגה - טק\City\City\City.Data\bin\Debug\net6.0\City.Data.deps.json
+D:\מבחנים ופרויקטים עבודה\מגה - טק\City\City\City.Data\bin\Debug\net6.0\City.Data.dll
+D:\מבחנים ופרויקטים עבודה\מגה - טק\City\City\City.Data\bin\Debug\net6.0\City.Data.pdb
+D:\מבחנים ופרויקטים עבודה\מגה - טק\City\City\City.Data\bin\Debug\net6.0\City.Core.dll
+D:\מבחנים ופרויקטים עבודה\מגה - טק\City\City\City.Data\bin\Debug\net6.0\City.Core.pdb
+D:\מבחנים ופרויקטים עבודה\מגה - טק\City\City\City.Data\obj\Debug\net6.0\City.Data.csproj.CopyComplete
+D:\מבחנים ופרויקטים עבודה\מגה - טק\City\City\City.Data\obj\Debug\net6.0\City.Data.dll
+D:\מבחנים ופרויקטים עבודה\מגה - טק\City\City\City.Data\obj\Debug\net6.0\refint\City.Data.dll
+D:\מבחנים ופרויקטים עבודה\מגה - טק\City\City\City.Data\obj\Debug\net6.0\City.Data.pdb
+D:\מבחנים ופרויקטים עבודה\מגה - טק\City\City\City.Data\obj\Debug\net6.0\ref\City.Data.dll

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "City.Service/1.0.0": {
+        "dependencies": {
+          "City.Core": "1.0.0"
+        },
+        "runtime": {
+          "City.Service.dll": {}
+        }
+      },
+      "City.Core/1.0.0": {
+        "runtime": {
+          "City.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "City.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "City.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

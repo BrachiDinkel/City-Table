@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="6.0.32">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\City.Data\City.Data.csproj" />
+    <ProjectReference Include="..\City.Service\City.Service.csproj" />
+  </ItemGroup>
+	<ItemGroup>
+		<ProjectReference Include="..\City.Core\City.Core.csproj" />
+		<ProjectReference Include="..\City.Data\City.Data.csproj" />
+		<ProjectReference Include="..\City.Service\City.Service.csproj" />
+	</ItemGroup>
+
+
+</Project>
